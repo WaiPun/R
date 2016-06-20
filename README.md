@@ -7,7 +7,7 @@ Data visualisation: ggplot2, plotly
 
 Quant/finance: quantmod
 
-Timeseries: zoo
+Time Series: zoo
 
 Machine Learning: caret
 
