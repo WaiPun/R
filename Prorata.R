@@ -1,0 +1,6 @@
+install.packages("quantmod")
+install.packages("quantmod")
+getQuote("AXA")
+getQuote("QQQQ;SPY;^VXN",what=yahooQF(c("Bid","Ask")))
+standardQuote()
+yahooQF()
