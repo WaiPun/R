@@ -1,22 +1,22 @@
 # R
 For R
 
-Frequently used libraries
-Data visualisation 
+# Frequently used libraries
+# Data visualisation 
 ggplot2
 plotly
 
-Quant/finance
+# Quant/finance
 quantmod
 
-Timeseries
+# Timeseries
 zoo
 
-Machine Learning 
+# Machine Learning 
 caret
 
-Survival analysis
+# Survival analysis
 Survival
 
-Bootstrapping
+# Bootstrapping
 Boot
